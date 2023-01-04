@@ -1,0 +1,12 @@
+.logo-area{background-color: darkorange;display:flex;
+justify-content:space-between;
+font-weight:500; font-variant:small-caps;font-family: 'Russo One', sans-serif;
+height:70px; color:white;font-size:25px;align-items:center;
+}
+.logo-area ul{display:flex;margin-right:40px;}
+.logo-area ul li{list-style:none;margin-right:25px; }
+.logo-area ul li a{text-decoration:none;color:white;
+    transition: 1s;
+}
+.logo-area li:hover a{background-color: dodgerblue;padding:20px 0;border-radius:10px;}
+nav > ul > li{display:none;}
